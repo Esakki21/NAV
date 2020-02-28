@@ -1,1 +1,2 @@
 # NAV
+snyk test
